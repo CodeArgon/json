@@ -1,0 +1,7 @@
+{
+  "configs": {
+    "maxLife": 5,
+    "Coins": 1000,
+    "Gems": 5
+  }
+}

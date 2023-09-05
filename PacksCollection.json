@@ -1,0 +1,112 @@
+{
+  "Packs": [
+    {
+      "id": 0,
+      "name": "Packname",
+      "CardData": [
+        {
+          "id": 0,
+          "cardTypeId": 0,
+          "WeaveType": 0,
+          "imageurl": "asset/folder",
+          "name": "Putrid Thrall",
+          "rarity": "common",
+          "type": "Creature",
+          "AdditionalType": "Undead | ghoul",
+          "GenericCost": 0,
+          "properties": {
+            "typeLine": "When this creature dies, put a -1 -1 counter on a creature"
+          },
+          "stats": {
+            "power": 1,
+            "toughness": 1
+          },
+          "weaveCosts": [
+            {
+              "weaveId": 0,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "cardTypeId": 0,
+          "WeaveType": 0,
+          "imageurl": "asset/folder",
+          "name": "Reassembling skeleton",
+          "rarity": "rare",
+          "type": "Creature",
+          "AdditionalType": "Undead | Skeleton",
+          "GenericCost": 0,
+          "properties": {
+            "typeLine": "You may pay N N, if you do return this creature from the graveyard to play."
+          },
+          "stats": {
+            "power": 1,
+            "toughness": 0
+          },
+          "weaveCosts": [
+            {
+              "weaveId": 0,
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Packname",
+      "CardData": [
+        {
+          "id": 0,
+          "cardTypeId": 0,
+          "WeaveType": 0,
+          "imageurl": "asset/folder",
+          "name": "Putrid Thrall",
+          "rarity": "common",
+          "type": "Creature",
+          "AdditionalType": "Undead | ghoul",
+          "GenericCost": 0,
+          "properties": {
+            "typeLine": "When this creature dies, put a -1 -1 counter on a creature"
+          },
+          "stats": {
+            "power": 1,
+            "toughness": 1
+          },
+          "weaveCosts": [
+            {
+              "weaveId": 0,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "cardTypeId": 0,
+          "WeaveType": 0,
+          "imageurl": "asset/folder",
+          "name": "Reassembling skeleton",
+          "rarity": "rare",
+          "type": "Creature",
+          "AdditionalType": "Undead | Skeleton",
+          "GenericCost": 0,
+          "properties": {
+            "typeLine": "You may pay N N, if you do return this creature from the graveyard to play."
+          },
+          "stats": {
+            "power": 1,
+            "toughness": 0
+          },
+          "weaveCosts": [
+            {
+              "weaveId": 0,
+              "value": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

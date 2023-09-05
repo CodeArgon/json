@@ -1,0 +1,8 @@
+{
+  "configs": {
+    "weaveDrawCount": 2,
+    "spellDrawCount": 3,
+    "battlefieldCardsCount": 10,
+    "summoningSickness":true
+  }
+}

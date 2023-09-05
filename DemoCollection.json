@@ -1,0 +1,592 @@
+{
+    "name": "Demo Collection",
+  "demoCards": [
+    {
+      "id": 0,
+      "cardTypeId": 0,
+      "name": "Putrid Thrall",
+      "rarity": "Common",
+      "type": "Creature",
+      "AdditionalType": "Undead | Ghoul",
+      "weaveCosts": [
+        {
+          "weaveId": 0,
+          "value": 1
+        }
+      ],
+      "properties": {
+        "typeLine": "When this creature dies, put a -1 -1 counter on a creature"
+      },
+      "stats": {
+        "power": 1,
+        "toughness": 1
+      }
+    },
+    {
+      "id": 1,
+      "cardTypeId": 0,
+      "name": "Reassembling Skeleton",
+      "rarity": "Rare",
+      "type": "Creature",
+      "AdditionalType": "Undead | Skeleton",
+      "weaveCosts": [
+        {
+          "weaveId": 0,
+          "value": 1
+        }
+      ],
+      "properties": {
+        "typeLine": "You may pay N N, if you do return this creature from the graveyard to play"
+      },
+      "stats": {
+        "power": 0,
+        "toughness": 1
+      }
+    },
+    {
+      "id": 2,
+      "cardTypeId": 0,
+      "name": "Cemetary Prowler",
+      "rarity": "Common",
+      "type": "Creature",
+      "AdditionalType": "Beast |",
+      "weaveCosts": [
+        {
+          "weaveId": 0,
+          "value": 1
+        }
+      ],
+      "properties": {
+        "typeLine": "When this creature enters, mill 2 cards"
+      },
+      "stats": {
+        "power": 1,
+        "toughness": 1
+      }
+    },
+    {
+      "id": 3,
+      "cardTypeId": 0,
+      "name": "Novice necromancer",
+      "rarity": "Uncommon",
+      "type": "Creature",
+      "AdditionalType": "Human | Necromancer",
+      "weaveCosts": [
+        {
+          "weaveId": 0,
+          "value": 1
+        },
+        {
+          "weaveId": 5,
+          "value": 1
+        }
+      ],
+      "properties": {
+        "typeLine": "On enter, create a 2/2 Ghoul Necros creature token"
+      },
+      "stats": {
+        "power": 1,
+        "toughness": 1
+      }
+    },
+    {
+      "id": 4,
+      "cardTypeId": 0,
+      "name": "Insatiable Vampire",
+      "rarity": "Common",
+      "type": "Creature",
+      "AdditionalType": "San'Layn | ",
+      "weaveCosts": [
+        {
+          "weaveId": 0,
+          "value": 1
+        },
+        {
+          "weaveId": 5,
+          "value": 1
+        }
+      ],
+      "properties": {
+        "typeLine": "Lifelink"
+      },
+      "stats": {
+        "power": 2,
+        "toughness": 3
+      }
+    },
+    {
+      "id": 5,
+      "cardTypeId": 0,
+      "name": "Death Harvester",
+      "rarity": "Rare",
+      "type": "Creature",
+      "AdditionalType": "Human | Necromancer",
+      "weaveCosts": [
+        {
+          "weaveId": 0,
+          "value": 2
+        }
+      ],
+      "properties": {
+        "typeLine": "When a creature you control dies, drain 1 (target opponent loses 1 life and you gain 1 life)"
+      },
+      "stats": {
+        "power": 1,
+        "toughness": 2
+      }
+    },
+    {
+      "id": 6,
+      "cardTypeId": 0,
+      "name": "Stiched Charger",
+      "rarity": "Common",
+      "type": "Creature",
+      "AdditionalType": "Undead | Abomination",
+      "weaveCosts": [
+        {
+          "weaveId": 0,
+          "value": 1
+        },
+        {
+          "weaveId": 5,
+          "value": 1
+        }
+      ],
+      "properties": {
+        "typeLine": "-"
+      },
+      "stats": {
+        "power": 3,
+        "toughness": 3
+      }
+    },
+    {
+      "id": 7,
+      "cardTypeId": 0,
+      "name": "Unyeilding Thrall",
+      "rarity": "Common",
+      "type": "Creature",
+      "AdditionalType": "Undead | Ghoul",
+      "weaveCosts": [
+        {
+          "weaveId": 0,
+          "value": 1
+        },
+        {
+          "weaveId": 5,
+          "value": 1
+        }
+      ],
+      "properties": {
+        "typeLine": "Undying (When this creature dies, return it to the battlefield with a -1-1 counter on it. Do this only once.)"
+      },
+      "stats": {
+        "power": 1,
+        "toughness": 2
+      }
+    },
+    {
+      "id": 8,
+      "cardTypeId": 0,
+      "name": "Bloodpact Impaler",
+      "rarity": "",
+      "type": "Creature",
+      "AdditionalType": "Demon",
+      "GenericCost": 1,
+      "weaveCosts": [
+        {
+          "weaveId": 0,
+          "value": 2
+        }
+      ],
+      "properties": {
+        "typeLine": "At the beginning of your endstep, pay 4 life"
+      },
+      "stats": {
+        "power": 5,
+        "toughness": 5
+      }
+    },
+    {
+      "id": 9,
+      "cardTypeId": 0,
+      "name": "Bloodweave Channeler",
+      "rarity": "Uncommon",
+      "type": "Creature",
+      "AdditionalType": "Undead | Warlock",
+      "GenericCost": 2,
+      "weaveCosts": [
+        {
+          "weaveId": 0,
+          "value": 2
+        }
+      ],
+      "properties": {
+        "typeLine": "Exert - lose 1 life and add N"
+      },
+      "stats": {
+        "power": 1,
+        "toughness": 2
+      }
+    },
+    {
+      "id": 10,
+      "cardTypeId": 0,
+      "name": "Voracious Aristocrat",
+      "rarity": "Uncommon",
+      "type": "Creature",
+      "AdditionalType": "San 'Layn | Warlock",
+      "weaveCosts": [
+        {
+          "weaveId": 0,
+          "value": 2
+        }
+      ],
+      "properties": {
+        "typeLine": "When this creature enters or attacks, you may sacrifice a creature. For each creature sacrificed this way put a +1 +1 counter on this creature, you draw a card and you lose 2 life"
+      },
+      "stats": {
+        "power": 2,
+        "toughness": 3
+      }
+    },
+    {
+      "id": 11,
+      "cardTypeId": 0,
+      "name": "Blood Initiate",
+      "rarity": "Uncommon",
+      "type": "Creature",
+      "AdditionalType": "Human | Cultist",
+      "weaveCosts": [
+        {
+          "weaveId": 0,
+          "value": 2
+        },
+        {
+          "weaveId": 5,
+          "value": 1
+        }
+      ],
+      "properties": {
+        "typeLine": "While you have 10 or less life, this creature gains menace and +1 +1"
+      },
+      "stats": {
+        "power": 3,
+        "toughness": 2
+      }
+    },
+    {
+      "id": 12,
+      "cardTypeId": 0,
+      "name": "Remnent marauder",
+      "rarity": "Common",
+      "type": "Creature",
+      "AdditionalType": "Undead | Remnent Barbarian",
+      "weaveCosts": [
+        {
+          "weaveId": 0,
+          "value": 1
+        },
+        {
+          "weaveId": 5,
+          "value": 2
+        }
+      ],
+      "properties": {
+        "typeLine": "As this creature enters, you may pay 3 life and/or discard a card. If you paid life this way, it enters with lifelink if you discard a card this way it enters with undying"
+      },
+      "stats": {
+        "power": 4,
+        "toughness": 2
+      }
+    },
+    {
+      "id": 12,
+      "cardTypeId": 0,
+      "name": "Plagued Ghoul",
+      "rarity": "Uncommon",
+      "type": "Creature",
+      "AdditionalType": "Undead | Ghoul",
+      "weaveCosts": [
+        {
+          "weaveId": 0,
+          "value": 2
+        },
+        {
+          "weaveId": 5,
+          "value": 1
+        }
+      ],
+      "properties": {
+        "typeLine": "Enters with a -1 -1 counter. When this creature dies, move all -1 -1 counters from it to up to one other creature"
+      },
+      "stats": {
+        "power": 2,
+        "toughness": 3
+      }
+    },
+    {
+      "id": 13,
+      "cardTypeId": 0,
+      "name": "Ravenous Bloodhound",
+      "rarity": "Rare",
+      "type": "Creature",
+      "AdditionalType": "Undead | Beast",
+      "weaveCosts": [
+        {
+          "weaveId": 0,
+          "value": 2
+        },
+        {
+          "weaveId": 5,
+          "value": 2
+        }
+      ],
+      "properties": {
+        "typeLine": "When this creature enters, you may sacrifice a creature, if you do destroy target creature or planeswalker"
+      },
+      "stats": {
+        "power": 2,
+        "toughness": 4
+      }
+    },
+    {
+      "id": 14,
+      "cardTypeId": 0,
+      "name": "Bloated Zombie",
+      "rarity": "Common",
+      "type": "Creature",
+      "AdditionalType": " ",
+      "weaveCosts": [
+        {
+          "weaveId": 0,
+          "value": 3
+        }
+      ],
+      "properties": {
+        "typeLine": "-"
+      },
+      "stats": {
+        "power": 4,
+        "toughness": 5
+      }
+    },
+    {
+      "id": 15,
+      "cardTypeId": 0,
+      "name": "Gravelord Envoy",
+      "rarity": "Mythic",
+      "type": "Creature",
+      "AdditionalType": "Undead | Remnant",
+      "weaveCosts": [
+        {
+          "weaveId": 2,
+          "value": 2
+        },
+        {
+          "weaveId": 5,
+          "value": 2
+        }
+      ],
+      "properties": {
+        "typeLine": "Sacrifice a creature, pay 3 life: Transform this card >>> At the beggining of combat, choose one: Target creature gains lifelink until end of turn or put a -1 -1 counter"
+      },
+      "stats": {
+        "power": 5,
+        "toughness": 5
+      }
+    },
+    {
+      "id": 16,
+      "cardTypeId": 0,
+      "name": "Ruinous Necromancer",
+      "rarity": "Uncommon",
+      "type": "Creature",
+      "AdditionalType": "Undead | Remnant",
+      "weaveCosts": [
+        {
+          "weaveId": 0,
+          "value": 3
+        },
+        {
+          "weaveId": 5,
+          "value": 1
+        }
+      ],
+      "properties": {
+        "typeLine": "When this creature dies choose creature, twine or Artefact. Each opponent sacrifices a permanent with the corresponding type"
+      },
+      "stats": {
+        "power": 4,
+        "toughness": 2
+      }
+    },
+    {
+      "id": 17,
+      "cardTypeId": 0,
+      "name": "Practical Researcher",
+      "rarity": "Uncommon",
+      "type": "Creature",
+      "AdditionalType": "Undead | Remnant",
+      "weaveCosts": [
+        {
+          "weaveId": 0,
+          "value": 3
+        },
+        {
+          "weaveId": 5,
+          "value": 1
+        }
+      ],
+      "properties": {
+        "typeLine": "Exert, pay 2 life: Draw a card"
+      },
+      "stats": {
+        "power": 2,
+        "toughness": 3
+      }
+    },
+    {
+      "id": 18,
+      "cardTypeId": 0,
+      "name": "Zombie Horde Raiser",
+      "rarity": "Rare",
+      "type": "Creature",
+      "AdditionalType": "Human | Remnant",
+      "weaveCosts": [
+        {
+          "weaveId": 0,
+          "value": 3
+        },
+        {
+          "weaveId": 5,
+          "value": 1
+        }
+      ],
+      "properties": {
+        "typeLine": "Whenever this creature attacks create a 2/2 necros ghoul token"
+      },
+      "stats": {
+        "power": 2,
+        "toughness": 5
+      }
+    },
+    {
+      "id": 19,
+      "cardTypeId": 0,
+      "name": "Necron, Arch Lich",
+      "rarity": "Rare",
+      "type": "Creature",
+      "AdditionalType": "Undead | Gravelord",
+      "weaveCosts": [
+        {
+          "weaveId": 0,
+          "value": 4
+        },
+        {
+          "weaveId": 5,
+          "value": 2
+        }
+      ],
+      "properties": {
+        "typeLine": "Whenever you sacrifice a creature or pay life, create a 1/1 _____ necros creature token"
+      },
+      "stats": {
+        "power": 6,
+        "toughness": 5
+      }
+    },
+    {
+      "id": 20,
+      "cardTypeId": 0,
+      "name": "Eoxian Brute",
+      "rarity": "Common",
+      "type": "Creature",
+      "AdditionalType": "Human | Remnant",
+      "weaveCosts": [
+        {
+          "weaveId": 0,
+          "value": 1
+        },
+        {
+          "weaveId": 5,
+          "value": 5
+        }
+      ],
+      "properties": {
+        "typeLine": "-"
+      },
+      "stats": {
+        "power": 7,
+        "toughness": 6
+      }
+    },
+    {
+      "id": 21,
+      "cardTypeId": 0,
+      "name": "High Lord Reanimator",
+      "rarity": "Rare",
+      "type": "Creature",
+      "AdditionalType": "Undead | Gravelord",
+      "weaveCosts": [
+        {
+          "weaveId": 0,
+          "value": 4
+        },
+        {
+          "weaveId": 5,
+          "value": 3
+        }
+      ],
+      "properties": {
+        "typeLine": "Lifelink. Whenever a nontoken creature you control dies you may pay 2 life. If you do create a token of that creature except it's an necros undead ghoul in addition to it's other types and colors"
+      },
+      "stats": {
+        "power": 4,
+        "toughness": 6
+      }
+    },
+    {
+      "id": 22,
+      "cardTypeId": 0,
+      "name": "Blood Caster Necromancer",
+      "rarity": "Mythic",
+      "type": " ",
+      "AdditionalType": " ",
+      "weaveCosts": [
+        {
+          "weaveId": 0,
+          "value": 0
+        }
+      ],
+      "properties": {
+        "typeLine": "At the beggining of combat on your turn, if you have 10 or less life you may return target creature with mana value 5 or less from the graveyard to the battlefield"
+      },
+      "stats": {
+        "power": 0,
+        "toughness": 0
+      }
+    },
+    {
+      "id": 23,
+      "cardTypeId": 0,
+      "name": "Thanatological Research",
+      "rarity": "Uncommon",
+      "type": "Wrap",
+      "AdditionalType": "Reflex",
+      "weaveCosts": [
+        {
+          "weaveId": 0,
+          "value": 0
+        }
+      ],
+      "properties": {
+        "typeLine": "Sacrifice a creature as a cost to cast this spell. Draw two cards"
+      },
+      "stats": {
+        "power": 0,
+        "toughness": 0
+      }
+    }
+  ]
+  }

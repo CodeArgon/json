@@ -1,0 +1,303 @@
+{
+  "decksList": [
+    {
+      "name": "Necros midrange",
+      "cards": [
+        {
+          "id": 0,
+          "amount": 4
+        },
+        {
+          "id": 1,
+          "amount": 2
+        },
+        {
+          "id": 2,
+          "amount": 4
+        },
+        {
+          "id": 3,
+          "amount": 2
+        },
+        {
+          "id": 7,
+          "amount": 2
+        },
+        {
+          "id": 6,
+          "amount": 2
+        },
+        {
+          "id": 5,
+          "amount": 2
+        },
+        {
+          "id": 4,
+          "amount": 2
+        },
+        {
+          "id": 8,
+          "amount": 2
+        },
+        {
+          "id": 9,
+          "amount": 2
+        },
+        {
+          "id": 11,
+          "amount": 2
+        },
+        {
+          "id": 12,
+          "amount": 2
+        },
+        {
+          "id": 13,
+          "amount": 2
+        },
+        {
+          "id": 14,
+          "amount": 2
+        },
+        {
+          "id": 15,
+          "amount": 4
+        },
+        {
+          "id": 16,
+          "amount": 2
+        },
+        {
+          "id": 20,
+          "amount": 1
+        },
+        {
+          "id": 19,
+          "amount": 1
+        },
+        {
+          "id": 18,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "Vitae lifegain",
+      "cards": [
+        {
+          "id": 0,
+          "amount": 2
+        },
+        {
+          "id": 1,
+          "amount": 4
+        },
+        {
+          "id": 2,
+          "amount": 3
+        },
+        {
+          "id": 3,
+          "amount": 2
+        },
+        {
+          "id": 7,
+          "amount": 2
+        },
+        {
+          "id": 6,
+          "amount": 3
+        },
+        {
+          "id": 5,
+          "amount": 2
+        },
+        {
+          "id": 4,
+          "amount": 4
+        },
+        {
+          "id": 8,
+          "amount": 2
+        },
+        {
+          "id": 9,
+          "amount": 3
+        },
+        {
+          "id": 11,
+          "amount": 3
+        },
+        {
+          "id": 12,
+          "amount": 2
+        },
+        {
+          "id": 13,
+          "amount": 4
+        },
+        {
+          "id": 14,
+          "amount": 2
+        },
+        {
+          "id": 15,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "Farhan",
+      "cards": [
+        {
+          "id": 5,
+          "amount": 1
+        },
+        {
+          "id": 117,
+          "amount": 2
+        },
+        {
+          "id": 13,
+          "amount": 4
+        },
+        {
+          "id": 14,
+          "amount": 3
+        },
+        {
+          "id": 118,
+          "amount": 4
+        },
+        {
+          "id": 12,
+          "amount": 2
+        },
+        {
+          "id": 10,
+          "amount": 4
+        },
+        {
+          "id": 11,
+          "amount": 1
+        },
+        {
+          "id": 122,
+          "amount": 1
+        },
+        {
+          "id": 20,
+          "amount": 1
+        },
+        {
+          "id": 124,
+          "amount": 4
+        },
+        {
+          "id": 132,
+          "amount": 4
+        },
+        {
+          "id": 130,
+          "amount": 1
+        },
+        {
+          "id": 129,
+          "amount": 1
+        },
+        {
+          "id": 25,
+          "amount": 1
+        },
+        {
+          "id": 134,
+          "amount": 1
+        },
+        {
+          "id": 139,
+          "amount": 1
+        },
+        {
+          "id": 138,
+          "amount": 1
+        },
+        {
+          "id": 34,
+          "amount": 1
+        },
+        {
+          "id": 35,
+          "amount": 1
+        },
+        {
+          "id": 36,
+          "amount": 1
+        },
+        {
+          "id": 37,
+          "amount": 1
+        },
+        {
+          "id": 141,
+          "amount": 1
+        },
+        {
+          "id": 149,
+          "amount": 1
+        },
+        {
+          "id": 45,
+          "amount": 1
+        },
+        {
+          "id": 46,
+          "amount": 1
+        },
+        {
+          "id": 47,
+          "amount": 1
+        },
+        {
+          "id": 48,
+          "amount": 1
+        },
+        {
+          "id": 152,
+          "amount": 1
+        },
+        {
+          "id": 158,
+          "amount": 2
+        },
+        {
+          "id": 54,
+          "amount": 1
+        },
+        {
+          "id": 55,
+          "amount": 1
+        },
+        {
+          "id": 57,
+          "amount": 1
+        },
+        {
+          "id": 58,
+          "amount": 1
+        },
+        {
+          "id": 162,
+          "amount": 1
+        },
+        {
+          "id": 173,
+          "amount": 1
+        },
+        {
+          "id": 174,
+          "amount": 4
+        }
+      ]
+    }
+  ]
+}
